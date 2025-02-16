@@ -1,0 +1,6 @@
+@EstateFInder_HostAddress = http://localhost:5181
+
+GET {{EstateFInder_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
